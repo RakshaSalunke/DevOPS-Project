@@ -1,5 +1,7 @@
 ABC
 
-Changed
+Change: fix bug1
 
-cdhjdsj
+change: fix bug2
+ 
+change:
